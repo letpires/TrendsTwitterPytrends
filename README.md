@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/letpires/trends_twitter_pytrends/blob/main/banners_github.png" >
+  <img src="https://github.com/letpires/trends_twitter_pytrends/blob/main/PYTRENDS.png" >
 </p>
 
 <h2 align="center">
